@@ -1,4 +1,11 @@
-## Olá eu sou o Guilherme Ramos!!
+## Olá! Sou Guilherme Ramos 👋
+
+🎓 Estudante de Engenharia de Software na Unicesumar.
+
+💻 Tenho interesse em HTML, CSS e JavaScript, tecnologias que estou estudando para desenvolver minhas habilidades em desenvolvimento web.
+
+🚀 Busco construir uma carreira na área de tecnologia, iniciando pelo Front-End e evoluindo para o desenvolvimento Full Stack, sempre em busca de novos desafios e aprendizado contínuo.
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeRMachado&show_icons=true&theme=dracula)](https://github.com/GuilhermeRMachado)
 
@@ -27,4 +34,9 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
-
+##
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuilhermeRMachado/GuilhermeRMachado/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuilhermeRMachado/GuilhermeRMachado/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GuilhermeRMachado/GuilhermeRMachado/output/github-contribution-grid-snake.svg">
+</picture>
